@@ -1,12 +1,6 @@
-<<<<<<< HEAD
-#!/bin/bash
-<<<<<<< HEAD
 echo "School" 
-=======
+
 #!bin/school
 
 echo "The School is open!" 
->>>>>>> 71ddf6722a4c3e761053c490ad359e725591e8fa
-=======
-echo "The School is open!" 
->>>>>>> update_script
+
